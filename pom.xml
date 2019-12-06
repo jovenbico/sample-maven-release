@@ -15,8 +15,8 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:git://github.com:jovenbico/sample-maven-release.git</connection>
-		<developerConnection>scm:git:git://github.com:jovenbico/sample-maven-release.git</developerConnection>
+		<connection>scm:git:git@github.com:jovenbico/sample-maven-release.git</connection>
+		<developerConnection>scm:git:git@github.com:jovenbico/sample-maven-release.git</developerConnection>
 		<url>https://github.com/jovenbico/sample-maven-release</url>
 	</scm>
 
