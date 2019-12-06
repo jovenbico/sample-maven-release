@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sample.maven</groupId>
 	<artifactId>sample-maven-release</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -16,7 +16,7 @@
 		<connection>scm:git:git@github.com:jovenbico/sample-maven-release.git</connection>
 		<developerConnection>scm:git:git@github.com:jovenbico/sample-maven-release.git</developerConnection>
 		<url>https://github.com/jovenbico/sample-maven-release</url>
-	  <tag>v0.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<build>
